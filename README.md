@@ -1,6 +1,6 @@
 # Create-React-App Start Kit, With Extras and Examples	
 
-#### Redux | Redux Thunk | React Router4 | Firebase | ReactBootstrap | MaterialsUI
+#### Redux | Redux Thunk | React Router4 | Firebase | ReactBootstrap | MaterialUI
 
 This start kit is based on one react-starter3 and the in-progress "feedbackr"
 
